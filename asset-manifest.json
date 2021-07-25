@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/figmacard/static/css/main.d115a425.chunk.css",
+    "main.js": "/figmacard/static/js/main.e449a932.chunk.js",
+    "main.js.map": "/figmacard/static/js/main.e449a932.chunk.js.map",
+    "runtime-main.js": "/figmacard/static/js/runtime-main.8d6661d3.js",
+    "runtime-main.js.map": "/figmacard/static/js/runtime-main.8d6661d3.js.map",
+    "static/js/2.55a8aa1c.chunk.js": "/figmacard/static/js/2.55a8aa1c.chunk.js",
+    "static/js/2.55a8aa1c.chunk.js.map": "/figmacard/static/js/2.55a8aa1c.chunk.js.map",
+    "static/js/3.193a4291.chunk.js": "/figmacard/static/js/3.193a4291.chunk.js",
+    "static/js/3.193a4291.chunk.js.map": "/figmacard/static/js/3.193a4291.chunk.js.map",
+    "index.html": "/figmacard/index.html",
+    "static/css/main.d115a425.chunk.css.map": "/figmacard/static/css/main.d115a425.chunk.css.map",
+    "static/js/2.55a8aa1c.chunk.js.LICENSE.txt": "/figmacard/static/js/2.55a8aa1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d6661d3.js",
+    "static/js/2.55a8aa1c.chunk.js",
+    "static/css/main.d115a425.chunk.css",
+    "static/js/main.e449a932.chunk.js"
+  ]
+}
